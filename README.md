@@ -15,13 +15,13 @@
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vishal-Borse/Roxiler-Backend-Coding-Challenge.git
+   git clone https://github.com/Vishal-Borse/Roxiler-Intern-Coding-Challenge.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd Roxiler-Backend-Coding-Challenge
+   cd Roxiler-Intern-Coding-Challenge
    ```
 
 4. Install dependencies:
